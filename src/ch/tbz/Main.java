@@ -31,8 +31,6 @@ public class Main {
 
 
         Random random = new Random();
-        //Calling the nextInt() method
-        System.out.println("Hier noch eine zufällige Ganzzahl: " + random.nextInt());
 
     }
 }
